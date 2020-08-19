@@ -1,4 +1,11 @@
-# middleware
+# Vue router middleware pipeline
+
+- Initial with tutorial: [Understanding Vue middleware pipelines](https://blog.logrocket.com/vue-middleware-pipelines/)
+- modify pipeline code
+
+**问题**
+
+1. 缺少转跳限制的错误提示
 
 ## Project setup
 ```
